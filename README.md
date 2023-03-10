@@ -6,6 +6,8 @@ https://shimmering-shortbread-16861f.netlify.app/
 HTML CSS JS adaptive
 https://hajima-vd.github.io/Ferrari_mag/
 
+React App , educational project!
+https://hajima-vd.github.io/monsters_rolodex/
 
 Idstudio HTML CSS comming soon adaptive and JS
 https://hajima-vd.github.io/Idstudio/
