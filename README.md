@@ -1,5 +1,7 @@
 # MyProjects
-https://www.codewars.com/users/Hajima-VD/badges/large
+
+Codewars Training 
+https://hajima-vd.github.io/Codewars/
 
 YouTube Clone Application in React JS with Material UI 5 | RapidAPI
 https://shimmering-shortbread-16861f.netlify.app/
